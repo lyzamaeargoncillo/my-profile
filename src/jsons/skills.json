@@ -1,0 +1,24 @@
+{
+  "techs_1": [
+    { "name": "JavaScript", "rate": "50" },
+    { "name": "Vue.js", "rate": "40" },
+    { "name": "ReactJS", "rate": "50" },
+    { "name": "HTML5", "rate": "50" },
+    { "name": "CSS3", "rate": "70" },
+    { "name": "Laravel", "rate": "80" },
+    { "name": "Responsive Design", "rate": "50" },
+    { "name": "User Experience (UX) Design", "rate": "50" },
+    { "name": "Flutter", "rate": "80" }
+  ],
+  "techs_2": [
+    { "name": "FlutLab", "rate": "80" },
+    { "name": "Android Studio", "rate": "50" },
+    { "name": "Version Control (Git)", "rate": "50" },
+    { "name": "Agile Methodology", "rate": "0" },
+    { "name": "Web Accessibility", "rate": "50" },
+    { "name": "Cross-Browser Compatibility", "rate": "50" },
+    { "name": "Web Performance Optimization", "rate": "50" },
+    { "name": "APIs and RESTful Services", "rate": "50" },
+    { "name": "Continuous Integration", "rate": "50" }
+  ]
+}

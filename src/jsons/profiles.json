@@ -1,0 +1,41 @@
+{
+  "data_1": [
+    { "birthday": "06 July 2003" },
+    {
+      "website": "<a target='blank' href='http:/lyza-argoncillo-resume.s3-website-us-east-1.amazonaws.com'>http://lyza-argoncillo-resume.s3-website-us-east-1.amazonaws.com</a>"
+    },
+    { "phone": "+63 912-914-2781" },
+    { "address": "Macaas, Tubigon, Bohol, Philippines" }
+  ],
+  "data_2": [
+    { "age": 21 },
+    { "degree": "B.S. Computer Engineering" },
+    { "email": "<a href='mailto:someone@example.com'>lyzamaeargoncillo812@gmail.com</a>" },
+    { "freelance": "Available" }
+  ],
+  "data_3": [
+    "Macaas, Tubigon, Bohol, Philippines",
+    "+63 912-914-2781",
+    "<a href='mailto:someone@example.com'>lyzamaeargoncillo812@gmail.com</a>"
+  ],
+  "data_4": [
+    { 
+      "title": "B.S. INFORMATION TECHNOLOGY",
+      "year": "2024 - 2025",
+      "school": "Mater Dei College",
+      "address": "Cabulijan, Tubigon, Bohol"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2020 - 2021",
+      "school": "Holy Cross Academy",
+      "address": "Pooc, Oriental, Tubigon, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2014 - 2015",
+      "school": "Tubigon West Elementary School",
+      "address": "Pooc,Oriental, Tubigon, Bohol"
+    }
+  ]
+}
